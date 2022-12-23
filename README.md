@@ -35,7 +35,7 @@ Purple = Either only an Investment Advisor, or an incorrect CRD
 ### Requirements
 Not included with setup.bat install
  - python 3.8+
- - pip 
+ - pip (python package installer)
  - Google Chrome
 
 Included with setup.bat install
